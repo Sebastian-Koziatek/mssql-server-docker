@@ -1,4 +1,3 @@
-content = """
 # SQL Server w kontenerze Docker
 
 Ten projekt umożliwia szybkie uruchomienie instancji Microsoft SQL Server 2017 w kontenerze Docker z zachowaniem trwałości danych.
